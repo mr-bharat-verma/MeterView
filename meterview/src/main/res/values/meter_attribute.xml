@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="meter" >
+        <attr name="totalNicks" format="integer" />
+        <attr name="maxValue" format="integer" />
+        <attr name="alertPercentage" format="integer" />
+        <attr name="curveAngle" format="integer" />
+        <attr name="topValue" format="integer" />
+        <attr name="alertColor" format="color" />
+        <attr name="scaleColor" format="color" />
+        <attr name="nickLength" format="integer" />
+        <attr name="nickWidth" format="integer" />
+        <attr name="rimWidth" format="integer" />
+        <attr name="screwRadius" format="integer" />
+        <attr name="fontSize" format="integer" />
+        <attr name="currentValue" format="float" />
+
+    </declare-styleable>
+</resources>
